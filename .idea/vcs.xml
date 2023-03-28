@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/authorization-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-controle-usuario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-posts" vcs="Git" />
+  </component>
+</project>

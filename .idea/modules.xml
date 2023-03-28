@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authorization-server/auth-server.iml" filepath="$PROJECT_DIR$/authorization-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-email/email.iml" filepath="$PROJECT_DIR$/ms-email/email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka.iml" filepath="$PROJECT_DIR$/eureka-server/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservicos-tcc.iml" filepath="$PROJECT_DIR$/.idea/microservicos-tcc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-controle-usuario/ms-controle-usuario.iml" filepath="$PROJECT_DIR$/ms-controle-usuario/ms-controle-usuario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-gateway/ms-gateway.iml" filepath="$PROJECT_DIR$/ms-gateway/ms-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-posts/ms-posts.iml" filepath="$PROJECT_DIR$/ms-posts/ms-posts.iml" />
+    </modules>
+  </component>
+</project>
